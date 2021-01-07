@@ -1,0 +1,9 @@
+body{
+  display: flex;
+  background-color: dodgerblue;
+  justify-content: center;
+  
+}
+.image{
+  -webkit-box-reflect: below 5px linear-gradient(transparent,transparent,#0008);
+}
